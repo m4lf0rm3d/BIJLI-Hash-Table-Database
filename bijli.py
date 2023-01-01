@@ -1,15 +1,3 @@
-""" 
-======================================= BIJLI ========================================= 
-====== BIJLI is a tool that helps to access phone number databases in O(1) time. ====== 
-This tool is best if saving time is your first priority. 
-Rights are reserved by: 
-===> Ahsan Azeemi (github.com/xorahsan) 
-===> Rohan Raj (github.com/rohanraj) 
-===> Fahad Nadeem (github.com/fahadnadeem) 
-
-For more information, please visit: https://github.com/xorahsan/bijli 
-"""
-
 from banner import *
 from hashtable_probing_method_input import *
 from linked_hashtable_functions_input import *

@@ -1,7 +1,7 @@
 import csv
 from linked_list_hashtable_class import *
 
-file_path = "E:\Project\database.csv"
+file_path = "database.csv"
 
 def makeLinkedHashTable():
     hashtable_size = 800000

@@ -1,7 +1,7 @@
 import csv
 from linear_hashtable_class import *
 
-file_path = "E:\Project\database.csv"
+file_path = "database.csv"
 
 def makeLinearHashTable():
     hashtable_size = 800000

@@ -10,7 +10,7 @@ def printBanner():
 #                      v 1.0                       #
 #         
 # ================================================ #
-#     AHSAN AZEEMI X FAHAD NADEEM X ROHAN RAJ      #
+#                  AHSAN AZEEMI                    #
 # ================================================ #
     """
     print(banner_txt)
